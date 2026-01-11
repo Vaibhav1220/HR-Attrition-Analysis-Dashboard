@@ -1,8 +1,8 @@
-HR Attrition Analysis Dashboard
+📊 HR Attrition Analysis Dashboard
 
 This project presents an HR Attrition Analysis Dashboard developed using Power BI to analyze employee turnover and workforce distribution within an organization. The dashboard provides a clear overview of key HR metrics and helps identify patterns and factors contributing to employee attrition.
 
-Dashboard Overview
+🔍 Dashboard Overview
 
 The dashboard highlights important KPIs such as:
 
@@ -30,7 +30,7 @@ Attrition rate by gender across different age groups
 
 Filters for education level allow users to interact with the dashboard and drill down into specific employee segments.
 
-Key Insights
+💡 Key Insights
 
 The dashboard helps HR teams:
 
@@ -42,7 +42,7 @@ Analyze the impact of job satisfaction and education on employee retention
 
 Support data-driven HR planning and retention strategies
 
-Tools & Technologies
+🛠️ Tools & Technologies
 
 Power BI – Dashboard creation and data visualization
 
@@ -50,6 +50,6 @@ SQL – Data cleaning, transformation, and KPI calculation
 
 Excel / CSV – Data source
 
-Use Case
+🎯 Use Case
 
 This project is useful for HR professionals, analysts, and business leaders who want to monitor workforce health, reduce attrition, and make informed decisions using HR data.
