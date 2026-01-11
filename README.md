@@ -4,7 +4,8 @@ This project presents an HR Attrition Analysis Dashboard developed using Power B
 
 ## 📸 Dashboard Preview
 
-![HR Attrition Analysis Dashboard](C:\Users\vaibhav\OneDrive\Pictures)
+![HR Attrition Analysis Dashboard](<img width="1347" height="750" alt="image" src="https://github.com/user-attachments/assets/3497ad0f-6064-41f6-b66c-4879824fcaba" />
+)
 ---
 
 ## 🔍 Dashboard Overview
