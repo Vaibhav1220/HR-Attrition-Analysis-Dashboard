@@ -3,9 +3,12 @@
 This project presents an HR Attrition Analysis Dashboard developed using Power BI to analyze employee turnover and workforce distribution within an organization. The dashboard provides a clear overview of key HR metrics and helps identify patterns and factors contributing to employee attrition.
 
 ## 📸 Dashboard Preview
-
-![HR Attrition Analysis Dashboard](<img width="1347" height="750" alt="image" src="https://github.com/user-attachments/assets/3497ad0f-6064-41f6-b66c-4879824fcaba" />
-)
+<img
+  width="1155"
+  height="648"
+  alt="HR Attrition Analysis Dashboard"
+  src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_IMAGE_ID"
+/>
 ---
 
 ## 🔍 Dashboard Overview
